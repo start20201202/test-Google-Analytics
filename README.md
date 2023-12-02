@@ -10,3 +10,5 @@ https://analytics.google.com/analytics/web/#/p338236295/reports/intelligenthome?
 https://ads.google.com/aw/preferences?ocid=609385332&euid=465598991&__u=9927798359&uscid=609385332&__c=1478406868&authuser=0
 
 https://docs.google.com/spreadsheets/d/1JzG_PUKgLtZlVvgx7GB9bU_u7yQJn-8z3FXyRCiEGBE/edit#gid=1444008009
+
+https://lookerstudio.google.com/u/0/reporting/create?c.mode=edit&c.source=BQ_UI&ds.type=TABLE&ds.connector=BIG_QUERY&ds.billingProjectId=lateral-array-333709&ds.projectId=lateral-array-333709&ds.tableId=events_20231129&ds.datasetId=analytics_338236295&ds.sqlType=STANDARD_SQL
