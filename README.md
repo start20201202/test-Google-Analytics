@@ -16,3 +16,5 @@ https://lookerstudio.google.com/u/0/reporting/create?c.mode=edit&c.source=BQ_UI&
 `select*from `analytics_338236295.events_20231129``
 
 https://start20201202.github.io/test-Google-Analytics/
+
+BigQuery https://console.cloud.google.com/bigquery?hl=ru&project=lateral-array-333709&ws=!1m5!1m4!4m3!1slateral-array-333709!2sanalytics_338236295!3sevents_20231129
