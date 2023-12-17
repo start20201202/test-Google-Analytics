@@ -14,3 +14,5 @@ https://docs.google.com/spreadsheets/d/1JzG_PUKgLtZlVvgx7GB9bU_u7yQJn-8z3FXyRCiE
 https://lookerstudio.google.com/u/0/reporting/create?c.mode=edit&c.source=BQ_UI&ds.type=TABLE&ds.connector=BIG_QUERY&ds.billingProjectId=lateral-array-333709&ds.projectId=lateral-array-333709&ds.tableId=events_20231129&ds.datasetId=analytics_338236295&ds.sqlType=STANDARD_SQL
 
 `select*from `analytics_338236295.events_20231129``
+
+https://start20201202.github.io/test-Google-Analytics/
